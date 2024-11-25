@@ -1,0 +1,2 @@
+# RCMake
+Make but crappier
